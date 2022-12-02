@@ -1,0 +1,9 @@
+Abstract
+BACKGROUND
+Lipoprotein(a) is a presumed risk factor for atherosclerotic cardiovascular disease. Olpasiran is a small interfering RNA that reduces lipoprotein(a) synthesis in the liver.
+
+METHODS
+We conducted a randomized, double-blind, placebo-controlled, dose-finding trial involving patients with established atherosclerotic cardiovascular disease and a lipoprotein(a) concentration of more than 150 nmol per liter. Patients were randomly assigned to receive one of four doses of olpasiran (10 mg every 12 weeks, 75 mg every 12 weeks, 225 mg every 12 weeks, or 225 mg every 24 weeks) or matching placebo, administered subcutaneously. The primary end point was the percent change in the lipoprotein(a) concentration from baseline to week 36 (reported as the placebo-adjusted mean percent change). Safety was also assessed.
+
+RESULTS
+Among the 281 enrolled patients, the median concentration of lipoprotein(a) at baseline was 260.3 nmol per liter, and the median concentration of low-density lipoprotein cholesterol was 67.5 mg per deciliter. At baseline, 88% of the patients were taking statin therapy, 52% were taking ezetimibe, and 23% were taking a proprotein convertase subtilisin–kexin type 9 (PCSK9) inhibitor. At 36 weeks, the lipoprotein(a) concentration had increased by a mean of 3.6% in the placebo group, whereas olpasiran therapy had significantly and substantially reduced the lipoprotein(a) concentration in a dose-dependent manner, resulting in placebo-adjusted mean percent changes of −70.5% with the 10-mg dose, −97.4% with the 75-mg dose, −101.1% with the 225-mg dose administered every 12 weeks, and −100.5% with the 225-mg dose administered every 24 weeks (P<0.001 for all comparisons with baseline). The overall incidence of adverse events was similar across the trial groups. The most common olpasiran-related adverse events were injection-site reactions, primarily pain.
